@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.box{
+    width: 20px;
+    height: 20px;
+    margin: 2px;
+    background-color: #646464;
+    cursor: pointer;
+    transition: all 0.4s ease;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 88px;
+}
